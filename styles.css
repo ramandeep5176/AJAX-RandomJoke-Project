@@ -208,6 +208,7 @@ p {
   margin: 0 auto;
   margin-top: 10rem;
   text-align: center;
+  display: -ms-grid;
   display: grid;
   justify-items: center;
 }
